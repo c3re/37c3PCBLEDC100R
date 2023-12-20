@@ -1,5 +1,6 @@
 # 37c3PCBLEDC100R
 Coaster for your drinks with option for LED and microcontroller upgrade.
+![rendering of the 37c3PCBLEDC100R](https://github.com/c3re/37c3PCBLEDC100R/blob/master/Rev.1/37c3PCBLEDC100R_rendered.png)
 ## Rev.1
 The revision 1 contains an error in the PCB-Layout! The error affects all LED footprints, the LED pins 1 & 2 are swapped.
 
